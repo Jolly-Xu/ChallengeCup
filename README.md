@@ -1,24 +1,13 @@
 # challenge
 
-## Project setup
+## 在vscode打开控制台，在当前项目的终端中运行下面命令
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 用这个命令跑程序就行了
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 需要写的代码在views里面
